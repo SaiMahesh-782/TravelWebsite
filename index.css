@@ -192,13 +192,7 @@ contact styles */
 
 
 
-@media (max-width: 768px) {
-    .nav-container ul {
-        flex-direction: column;
-        align-items: center;
-    }
 
-}
 
 
 @media (max-width: 600px) {
